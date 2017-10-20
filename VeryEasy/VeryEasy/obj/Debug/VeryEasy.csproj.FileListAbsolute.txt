@@ -1,0 +1,7 @@
+C:\Users\bawilliams.REDVENTURES\source\repos\C#\C-VeryEasy\VeryEasy\VeryEasy\bin\Debug\VeryEasy.exe.config
+C:\Users\bawilliams.REDVENTURES\source\repos\C#\C-VeryEasy\VeryEasy\VeryEasy\bin\Debug\VeryEasy.exe
+C:\Users\bawilliams.REDVENTURES\source\repos\C#\C-VeryEasy\VeryEasy\VeryEasy\bin\Debug\VeryEasy.pdb
+C:\Users\bawilliams.REDVENTURES\source\repos\C#\C-VeryEasy\VeryEasy\VeryEasy\obj\Debug\VeryEasy.csprojResolveAssemblyReference.cache
+C:\Users\bawilliams.REDVENTURES\source\repos\C#\C-VeryEasy\VeryEasy\VeryEasy\obj\Debug\VeryEasy.csproj.CoreCompileInputs.cache
+C:\Users\bawilliams.REDVENTURES\source\repos\C#\C-VeryEasy\VeryEasy\VeryEasy\obj\Debug\VeryEasy.exe
+C:\Users\bawilliams.REDVENTURES\source\repos\C#\C-VeryEasy\VeryEasy\VeryEasy\obj\Debug\VeryEasy.pdb
